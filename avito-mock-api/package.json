@@ -1,0 +1,10 @@
+{
+  "name": "avito-mock-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "dependencies": {
+    "@stoplight/prism-cli": "^6.0.0"
+  }
+}
